@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya|Rye|Suranna|UnifrakturMaguntia');
+
+.card{
+    background-color: rgb(189, 45, 45)
+}
+h3{
+    font-family: 'UnifrakturMaguntia', cursive;
+    text-align: center;
+}
+.saved-list{
+    border-radius: 15px;
+    background-color: rgb(230, 230, 230);
+    font-family: 'Suranna', serif;
+}
+
+.deleteBook {
+    border-radius: 5px;
+    margin-left: 10px
+}
+
+.viewBook {
+    border-radius: 5px;
+    margin-left: 5px
+}

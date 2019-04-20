@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Pattaya|Rye");
+nav.navbar {
+  justify-content: center;
+  font-family: "Rye";
+}
+button[type="button"] {
+  background-color: rgb(204, 35, 86);
+}
